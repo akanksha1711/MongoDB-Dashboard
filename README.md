@@ -1,4 +1,4 @@
-# Mongodb Dashboard
+# MongoDB Dashboard
 
 This is Project-1, an individual assignment completed by Akanksha Sharma (Roll No. 045006) for the subject Streaming Data Analytics in which I have made a MongoDB Dashboard.  
 
