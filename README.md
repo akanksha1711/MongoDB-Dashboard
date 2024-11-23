@@ -66,8 +66,8 @@ The primary objectives of this analysis are:
 **Insights**:  
 - Students balancing study hours with adequate sleep perform better, reinforcing the need for healthy routines.  
 
-## **6. School Type and Exam Scores (Grouped Bar)**  
-**Key Visualization**: A grouped bar chart comparing exam scores across public and private schools.  
+## **6. School Type and Exam Scores (Grouped Column)**  
+**Key Visualization**: A grouped column chart comparing exam scores across public and private schools.  
 **Insights**:  
 - Private school students outperform public school peers, highlighting potential disparities in resources or teaching quality.  
 
