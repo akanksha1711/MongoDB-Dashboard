@@ -13,7 +13,9 @@ The dataset contains detailed information on factors influencing student perform
 - Demographics: Gender, school type, and parental education levels provide insights into trends across various student groups.  
 - Study Habits: Variables such as hours studied, sleep hours, and tutoring sessions shed light on routines and their impact.  
 - Support Systems: Access to resources, internet connectivity, and parental involvement highlight the external factors influencing outcomes.  
-- Behavioral and Environmental Factors: Motivation levels, peer influence, and physical activity offer a glimpse into the psychological and social contributors to academic performance.  
+- Behavioral and Environmental Factors: Motivation levels, peer influence, and physical activity offer a glimpse into the psychological and social contributors to academic performance.
+
+---
 
 # OBJECTIVES  
 The primary objectives of this analysis are:  
@@ -31,6 +33,7 @@ The primary objectives of this analysis are:
 
 ![Student Performance Factors](https://github.com/user-attachments/assets/f14154c2-3468-44a7-8a84-4e6ba5bc7037)
 
+---
 
 # **MANAGERIAL INSIGHTS**
 
@@ -105,6 +108,7 @@ This analysis highlights critical insights into the factors affecting student pe
 
 By addressing these findings through targeted interventions, educators and policymakers can promote equitable and effective education. Continued analysis will ensure sustainable improvements and the identification of emerging trends.  
 
+---
 
 #### The dataset used for this project, titled *"Student Performance Factors,"* has been sourced from Kaggle. The link to the dataset is:  
 https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
