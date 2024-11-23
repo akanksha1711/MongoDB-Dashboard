@@ -27,6 +27,11 @@ The primary objectives of this analysis are:
 
 ---
 
+## DASHBOARD (MONGO DB ATLAS)
+
+![Student Performance Factors](https://github.com/user-attachments/assets/f14154c2-3468-44a7-8a84-4e6ba5bc7037)
+
+
 ### **MANAGERIAL INSIGHTS**
 
 #### **1. Overall Student Performance (Gauge Chart)**  
