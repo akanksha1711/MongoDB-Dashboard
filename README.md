@@ -100,9 +100,6 @@ This analysis highlights critical insights into the factors affecting student pe
 
 By addressing these findings through targeted interventions, educators and policymakers can promote equitable and effective education. Continued analysis will ensure sustainable improvements and the identification of emerging trends.  
 
----
-
-Let me know if this aligns with your requirements! 😊
 
 The dataset used for this project, titled *"Student Performance Factors,"* has been sourced from Kaggle. The link to the dataset is:  
 https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
